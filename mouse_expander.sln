@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mouse_expander", "mouse_expander\mouse_expander.vcxproj", "{113B872C-4F84-49DA-96C6-E27C88F7FFD9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mouse_pos", "mouse_pos\mouse_pos.vcxproj", "{695E393C-9992-4D25-92BB-283E62C53322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113B872C-4F84-49DA-96C6-E27C88F7FFD9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{113B872C-4F84-49DA-96C6-E27C88F7FFD9}.Debug|Win32.Build.0 = Debug|Win32
+		{113B872C-4F84-49DA-96C6-E27C88F7FFD9}.Release|Win32.ActiveCfg = Release|Win32
+		{113B872C-4F84-49DA-96C6-E27C88F7FFD9}.Release|Win32.Build.0 = Release|Win32
+		{695E393C-9992-4D25-92BB-283E62C53322}.Debug|Win32.ActiveCfg = Debug|Win32
+		{695E393C-9992-4D25-92BB-283E62C53322}.Debug|Win32.Build.0 = Debug|Win32
+		{695E393C-9992-4D25-92BB-283E62C53322}.Release|Win32.ActiveCfg = Release|Win32
+		{695E393C-9992-4D25-92BB-283E62C53322}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

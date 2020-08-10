@@ -1,0 +1,13 @@
+//Mouse Expander configuration file
+//Use this to specify script file & change options
+XDifLimiter = 4
+YDifLimiter = 4
+
+XDifStart = -4
+YDifStart = -4
+
+AdditionalMouseFuncs = 0
+
+KeyControls = 0
+
+KeyMoveStep = 3
